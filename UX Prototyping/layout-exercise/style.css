@@ -3,6 +3,19 @@
 /* Base Styles */
 /* ----------- */
 
+.container {
+	border-style: solid;
+	border-width: 6px;
+	border-color: gray;
+	padding: 20px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 40px;
+	width: 810px;
+	height: 950px;
+	border-radius: 9px;
+	
+}
 .wrapper {
 	margin: auto;
 	max-width: 800px;
