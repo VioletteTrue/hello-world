@@ -1,0 +1,127 @@
+ADOBE INDESIGN PRINTING INSTRUCTIONS FOR SERVICE PROVIDER REPORT
+
+PUBLICATION NAME: UX Design Research.indd
+
+PACKAGE DATE: 3/16/15 10:17 AM
+Creation Date: 3/5/15
+Modification Date: 3/15/15
+
+CONTACT INFORMATION
+
+Company Name: 
+Contact: 
+Address: 
+
+
+
+
+
+Phone: 
+Fax: 
+Email: 
+
+SPECIAL INSTRUCTIONS AND OTHER NOTES
+
+
+
+
+
+
+External Plug-ins 0
+Non Opaque Objects :On PagePB, 2, 6, 7, 8, 9, 11
+
+FONTS
+15 Fonts Used; 0 Missing, 0 Embedded, 0 Incomplete, 0 Protected
+
+Fonts Packaged
+- Name: Arial-BoldMT; Type: OpenType TrueType, Status: OK
+- Name: ArialMT; Type: OpenType TrueType, Status: OK
+- Name: Chalkduster; Type: TrueType, Status: OK
+- Name: DIN-Bold; Type: Type 1, Status: OK
+- Name: DIN-Light; Type: Type 1, Status: OK
+- Name: DIN-Medium; Type: Type 1, Status: OK
+- Name: DIN-Regular; Type: Type 1, Status: OK
+- Name: DIN-RegularItalic; Type: Type 1, Status: OK
+- Name: EraserDust; Type: TrueType, Status: OK
+- Name: FranklinGothicITCbyBT-Book; Type: Type 1, Status: OK
+- Name: FranklinGothicITCbyBT-Demi; Type: Type 1, Status: OK
+- Name: Helvetica-Bold; Type: TrueType, Status: OK
+- Name: MarkerFelt-Wide; Type: TrueType, Status: OK
+- Name: OpenSans-Semibold; Type: OpenType TrueType, Status: OK
+- Name: Univers-CondensedLight; Type: Type 1, Status: OK
+
+
+COLORS AND INKS
+4 Process Inks; 8 Spot Inks
+
+- Name and Type: Process Cyan; Angle: 75.000; Lines/Inch: 70.000
+- Name and Type: Process Magenta; Angle: 15.000; Lines/Inch: 70.000
+- Name and Type: Process Yellow; Angle: 0.000; Lines/Inch: 70.000
+- Name and Type: Process Black; Angle: 45.000; Lines/Inch: 70.000
+- Name and Type: PANTONE 188 C; Angle: 45.000; Lines/Inch: 70.000
+- Name and Type: PANTONE 349 C; Angle: 45.000; Lines/Inch: 70.000
+- Name and Type: PANTONE 405 C; Angle: 45.000; Lines/Inch: 70.000
+- Name and Type: PANTONE 5425 C; Angle: 45.000; Lines/Inch: 70.000
+- Name and Type: PANTONE 7405 C; Angle: 45.000; Lines/Inch: 70.000
+- Name and Type: PANTONE Black 6 C; Angle: 45.000; Lines/Inch: 70.000
+- Name and Type: PANTONE Orange 021 C; Angle: 45.000; Lines/Inch: 70.000
+- Name and Type: PANTONE Reflex Blue C; Angle: 45.000; Lines/Inch: 70.000
+
+
+LINKS AND IMAGES
+(Missing & Embedded Links Only)
+Links and Images: 25 Links Found; 0 Modified, 0 Missing 0 Inaccessible
+Images: 0 Embedded, 20 use RGB color space
+
+
+PRINT SETTINGS
+PPD: Device Independent, (PostScript¨ File)
+Printing To: Prepress File
+Number of Copies: 1
+Reader Spreads: No
+Even/Odd Pages: Both
+Pages: All
+Proof: No
+Tiling: None
+Scale: 100%, 100%
+Page Position: Upper Left
+Print Layers: Visible & Printable Layers
+Printer's Marks: None
+Bleed: 0p0, 0p0, 0p0, 0p0
+Color: Composite CMYK
+Trapping Mode: None
+Send Image Data: All
+OPI/DCS Image Replacement: No
+Page Size: Tabloid
+Paper Dimensions: 0p0 x 0p0
+Orientation: Portrait
+Negative: No
+Flip Mode: Off
+
+
+FILE PACKAGE LIST
+
+1. UX Design Research.indd; type: Adobe InDesign publication; size: 19900K
+2. Arial Bold.ttf; type: Font file; size: 733K
+3. Arial.ttf; type: Font file; size: 756K
+4. Chalkduster.ttf; type: Font file; size: 472K
+5. DINBol; type: Font file; size: 67K
+6. DIN Bold; type: Font file; size: 9K
+7. DINLig; type: Font file; size: 66K
+8. DIN Light; type: Font file; size: 9K
+9. DINMed; type: Font file; size: 67K
+10. DIN Medium; type: Font file; size: 9K
+11. DINReg; type: Font file; size: 66K
+12. DIN Regular; type: Font file; size: 9K
+13. DINRegIta; type: Font file; size: 72K
+14. DIN RegularItalic; type: Font file; size: 10K
+15. EraserDust.ttf; type: Font file; size: 175K
+16. FrankGotITCbyBTBoo; type: Font file; size: 31K
+17. FranklinGothicITCbyBT Book; type: Font file; size: 17K
+18. FrankGotITCbyBTDem; type: Font file; size: 31K
+19. FranklinGothicITCbyBT Demi; type: Font file; size: 9K
+20. Helvetica.dfont; type: Font file; size: 2491K
+21. MarkerFelt.ttc; type: Font file; size: 606K
+22. OpenSans-Semibold.ttf; type: Font file; size: 216K
+23. UniveConLig; type: Font file; size: 28K
+24. Univers CondensedLight; type: Font file; size: 26K
